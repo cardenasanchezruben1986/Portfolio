@@ -1,13 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-###
 <p align="left">My name is Rubén Cárdenas Sánchez and I'm a University Teacher, from Universidad Politécnica de San Luis Potosí</p>
-###
+
 <h2 align="left">About me</h2>
-###
 <p align="left">📚 I'm currently learning ReactNative<br>🎯 Goals: Gotta Catch 'Em All!<br>🎲 Fun fact: Mountain bike enjoyer<br>✨ Current level: Level 40</p>
-###
+
 <h2 align="left">Interested in...</h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
@@ -47,9 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-###
+
 <h2 align="left">Social media...</h2>
-###
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -61,4 +57,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
-###
